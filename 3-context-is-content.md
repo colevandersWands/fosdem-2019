@@ -1,4 +1,4 @@
-# context is content
+# [context is content](./index.html)
 
 demonstrating how the same coding challenge in different learning environments gives a very different experience and learning outcomes.
 
