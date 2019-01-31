@@ -77,7 +77,7 @@ your notes:
       'reverseString("Howdy") should become "ydwoH".');
 
   var htraE_morf_sgniteerG = reverseString('Greetings from Earth');
-  console.assert(htraE_morf_sgniteerG === 'Greetings from Earth', 
+  console.assert(htraE_morf_sgniteerG === 'htraE morf sgniteerG', 
       'reverseString("Greetings from Earth") should become "htraE morf sgniteerG".');
 
 };
