@@ -1,12 +1,12 @@
 # context is content
 
-to demostrate how the same coding challenge in different contexts has very different learning outcomes.
+demonstrating how the same coding challenge in different learning environments gives a very different experience and learning outcomes.
 
-each one has the exact same challenge, test cases, explanation and resources, but each one provides a very different learning experience for the student:
-* how does each change your interaction with the code, is one easier or harder?
-* what implicit skills are practiced or avoided in each environment?
+each example has the exact same challenge, test cases, explanation and resources, but each one provides a very different learning experience for the student:
+* how does each environment change your interaction with the code, is one easier or harder?
+* what implicit & explicit skills are practiced or avoided in each environment?
 * which version will most directly prepare students for developing real projects in a professional development environment?
-* which format is easier for making more exercises?  is the of effort translate to better student learning?
+* which format is easier for making more exercises?  does amount the of effort relate to better student learning?
 
 ### Index
 * [original on FreeCodeCamp](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-algorithm-scripting/reverse-a-string)
