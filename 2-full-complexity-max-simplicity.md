@@ -1,1 +1,1 @@
-# [full complexity, max simplicity](https://janke-learning.github.io/janke-learning/#/full-complexity-max-simplicity)
+# [full complexity, max simplicity](https://janke-learning.github.io/fosdem-2019/#/full-complexity-max-simplicity)

@@ -1,4 +1,4 @@
-# [context is content](https://janke-learning.github.io/janke-learning/#/context-is-content)
+# [context is content](https://janke-learning.github.io/fosdem-2019/#/context-is-content)
 
 demonstrating how the same coding challenge in different learning environments gives a very different experience and learning outcomes.
 

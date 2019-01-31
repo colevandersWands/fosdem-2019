@@ -1,4 +1,4 @@
-# [explicitly teach the implicit](https://janke-learning.github.io/janke-learning/#/explicitly-teach-the-implicit)
+# [explicitly teach the implicit](https://janke-learning.github.io/fosdem-2019/#/explicitly-teach-the-implicit)
 
 one of the most crucial skills that experienced developers have, but usually isn't taught explicitly, is the ability to trace through code in their head one operation at a time.  without this skill new programmers are left having to fix bugs with trial and error, write new code by pasting together other snippets & hoping for the best, and settling for rough behavior-level understadings of new code they encounter.
 

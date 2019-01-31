@@ -1,1 +1,1 @@
-# [open source !== open education](https://janke-learning.github.io/janke-learning/#/open-source-open-education)
+# [open source !== open education](https://janke-learning.github.io/fosdem-2019/#/open-source-open-education)
