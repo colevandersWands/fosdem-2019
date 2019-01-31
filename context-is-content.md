@@ -14,6 +14,7 @@ each one has the exact same challenge, test cases, explanation and resources, bu
 * [for markdown & console](#for-markdown-console)
 * [for codepen](#for-codepen) 
 * [for javscript replit](#for-javascript-replit)
+* [for node replit](#for-node-replit)
 * [for glitch](#for-glitch)
 
 ---
@@ -28,12 +29,17 @@ each one has the exact same challenge, test cases, explanation and resources, bu
 * complete [the challenge on pytut](https://goo.gl/SG2aoV)
 * when you've passed all the tests paste a shortened link to your solution below
 
-* [my solution on pytut](paste your link here)
+### [my solution on pytut](paste your link here)
 
 stuck?
 1. [read search ask](https://www.freecodecamp.org/forum/t/how-to-get-help-when-you-are-stuck/19514)
 2. [get a hint](https://guide.freecodecamp.org/certifications/javascript-algorithms-and-data-structures/basic-algorithm-scripting/reverse-a-string/)
 3. [ask a question on the forum](https://www.freecodecamp.org/forum/categories)
+
+your notes:
+
+```
+```
 
 [TOP](#context-is-content)
 
@@ -82,6 +88,12 @@ stuck?
 2. [get a hint](https://guide.freecodecamp.org/certifications/javascript-algorithms-and-data-structures/basic-algorithm-scripting/reverse-a-string/)
 3. [ask a question on the forum](https://www.freecodecamp.org/forum/categories)
 
+
+your notes:
+
+```
+```
+
 [TOP](#context-is-content)
 
 
@@ -97,13 +109,19 @@ stuck?
 * fork and complete [the challenge on codepen](https://codepen.io/colevanderswands/pen/NodZaW)
 * when you've passed all the tests paste a link to your fork below:
 
-* [my solution on codepen](paste your link here)
+### [my solution on codepen](paste your link here)
 
 
 stuck?
 1. [read search ask](https://www.freecodecamp.org/forum/t/how-to-get-help-when-you-are-stuck/19514)
 2. [get a hint](https://guide.freecodecamp.org/certifications/javascript-algorithms-and-data-structures/basic-algorithm-scripting/reverse-a-string/)
 3. [ask a question on the forum](https://www.freecodecamp.org/forum/categories)
+
+
+your notes:
+
+```
+```
 
 [TOP](#context-is-content)
 
@@ -116,16 +134,50 @@ stuck?
 > Your result must be a string.  
 
 * fork, this repo
-* fork and complete [the challenge on replit](https://repl.it/@colevandersWands/reverse-a-string)
+* fork and complete [the challenge on replit](https://repl.it/@colevandersWands/reverse-a-string-es6)
 * when you've passed all the tests paste a link to your fork below:
 
-* [my solution on replit](paste your link here)
+### [my solution on replit](paste your link here)
 
 
 stuck?
 1. [read search ask](https://www.freecodecamp.org/forum/t/how-to-get-help-when-you-are-stuck/19514)
 2. [get a hint](https://guide.freecodecamp.org/certifications/javascript-algorithms-and-data-structures/basic-algorithm-scripting/reverse-a-string/)
 3. [ask a question on the forum](https://www.freecodecamp.org/forum/categories)
+
+
+your notes:
+
+```
+```
+
+[TOP](#context-is-content)
+
+---
+
+## for node replit
+
+> Reverse the provided string.  
+> You may need to turn the string into an array before you can reverse it.  
+> Your result must be a string.  
+
+* fork, this repo
+* fork and complete [the challenge on replit](https://repl.it/@colevandersWands/reverse-a-string-node)
+* when you've passed all the tests paste a link to your fork below:
+
+### [my solution on replit](paste your link here)
+
+
+stuck?
+1. [read search ask](https://www.freecodecamp.org/forum/t/how-to-get-help-when-you-are-stuck/19514)
+2. [get a hint](https://guide.freecodecamp.org/certifications/javascript-algorithms-and-data-structures/basic-algorithm-scripting/reverse-a-string/)
+3. [ask a question on the forum](https://www.freecodecamp.org/forum/categories)
+
+
+your notes:
+
+```
+```
 
 [TOP](#context-is-content)
 
@@ -142,13 +194,19 @@ stuck?
 * fork and complete [the challenge on glitch](https://reverse-a-string.glitch.me/)
 * when you've passed all the tests paste a link to your fork below:
 
-* [my solution on glitch](paste your link here)
+### [my solution on glitch](paste your link here)
 
 
 stuck?
 1. [read search ask](https://www.freecodecamp.org/forum/t/how-to-get-help-when-you-are-stuck/19514)
 2. [get a hint](https://guide.freecodecamp.org/certifications/javascript-algorithms-and-data-structures/basic-algorithm-scripting/reverse-a-string/)
 3. [ask a question on the forum](https://www.freecodecamp.org/forum/categories)
+
+
+your notes:
+
+```
+```
 
 [TOP](#context-is-content)
 
