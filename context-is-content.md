@@ -2,7 +2,7 @@
 
 demonstrating how the same coding challenge in different learning environments gives a very different experience and learning outcomes.
 
-each example has the exact same challenge, test cases, explanation and resources, but each one provides a very different learning experience for the student:
+each example has the exact same challenge, test cases, explanation and resources, but they are not completely interchangeable:
 * how does each environment change your interaction with the code, is one easier or harder?
 * what implicit & explicit skills are practiced or avoided in each environment?
 * which version will most directly prepare students for developing real projects in a professional development environment?
