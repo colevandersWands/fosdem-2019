@@ -1,1 +1,1 @@
-# [full complexity, max simplicity](./index.html)
+# [full complexity, max simplicity](https://janke-learning.github.io/janke-learning/#/full-complexity-max-simplicity)
