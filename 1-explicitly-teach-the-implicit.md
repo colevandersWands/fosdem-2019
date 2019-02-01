@@ -45,7 +45,7 @@ try playing around with each refactor in the console passing through different v
   const b = ;
   const c = ;
   const expected = ;
-  let acutal;
+  let actual;
 
   if (a == b || a && c) {
     actual = a + b + c;
@@ -67,7 +67,7 @@ try playing around with each refactor in the console passing through different v
   const b = ;
   const c = ;
   const expected = ;
-  let acutal;
+  let actual;
 
   const condition_1 = a == b || a && c;
   const condition_2 = !c > !b;
@@ -92,7 +92,7 @@ try playing around with each refactor in the console passing through different v
   const b = ;
   const c = ;
   const expected = ;
-  let acutal;
+  let actual;
 
   let condition_1; { // = a == b || a && c;
     const val_1 = a == b;
@@ -136,7 +136,7 @@ try playing around with each refactor in the console passing through different v
   const b = ;
   const c = ;
   const expected = ;                            const log = [{a,b,c}];
-  let acutal;
+  let actual;
 
   let condition_1; { // = a == b || a && c;     
     const val_1 = a == b;
@@ -194,7 +194,7 @@ your notes:
   const b = [null, ];
   const limit = ;
   const expected = ;
-  let acutal;
+  let actual;
 
   for (const i = 0; i < limit; i+=2) {
     b.push(a + i * b[i-1]);
@@ -213,7 +213,7 @@ your notes:
   const b = [null, ];
   const limit = ;
   const expected = ;
-  let acutal;
+  let actual;
 
   {
     let i = 0; 
@@ -236,7 +236,7 @@ your notes:
   const b = [null, ];
   const limit = ;
   const expected = ;
-  let acutal;
+  let actual;
 
   {
     let i = 0; 
@@ -273,7 +273,7 @@ your notes:
   const b = [null, ];
   const limit = ; 
   const expected = ;                          const log = [{a,b:b.slice(),limit}];
-  let acutal;
+  let actual;
 
   {
     let i = 0; 
