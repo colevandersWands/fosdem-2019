@@ -1,17 +1,25 @@
 # [open source !== open education](https://janke-learning.github.io/fosdem-2019/#/open-source-open-education)
 
 
-In the world of computers and programming, there is open source.  In the world of education there are [open education resources](https://opensource.com/resources/what-open-education), resource used for education that are published under an open-source license.  This includes software but also things like slides, lesson plans, word problems, videos, etc. Let's that idea one step further and define __open education__ as:
+In the world of computers and programming, there is open source.  In the world of education there are [open education resources](https://opensource.com/resources/what-open-education), resource used for education that are published under an open-source license.  This includes software but also things like slides, lesson plans, word problems, videos, etc. Let's take that idea one step further and define __open education__ as:
 
-> any educational content or method that can be readily adapted to a wide variety of learning environments by direct stakeholders (teachers, students, parents, employers, ...) working within their existing means.
+> any educational content or method that can be easily adapted to any learning environment by those directly involved (teachers, students, parents, employers, ...), working within their existing means.
 
-This definition of open-eductaion is a stricter standard than is generally placed on open-source software or open educational resources, but it is a very important distinction to make. In the world of programming, every new piece of software and every additional tool can add substantial complexity to your project.  In the world of education resources are always short, professional trainings are too few, and workloads are too high.  On the flip side, teachers & students are the ones who know their contextual challenges better than anyone. 
+This definition of open-eductaion is a stricter standard than is generally placed on open-source software or open educational resources, but it is especially important for computing educators. In the world of programming, every new piece of software and every additional tool adds substantial complexity for students and teachers.  In the world of education resources are often short, professional trainings are few, and workloads too high.  
 
-When preparing open resources for computing education it is important to ballance ease of use with prescription, creating resources that enable teachers & students alike to flexibly update their existing courses or easily create new ones without needing to learn a whole new set of single-purpose tools.
+On the flip side, teachers & students are the ones who know their contextual challenges better than anyone. 
+
+When creating open resources for computing education it is especially important to ballance ease of use & pedagogical strength against prescriptivism & the introduction of new tools. The ideal is to create resources that enable teachers to flexibly update their existing courses while also providing students with the means to extend and adapt coursework to fit their challenges and interests.
 
 ### Index
+* [open source !== open education](#js-parsons---parsonizer)
+* [:white_check_mark: open source, :x: open education](#freecodecamp) 
+* [:x: open source, :white_check_mark: open education](#repl-it-classroom---multiplayer)  
+* [:white_check_mark: open source, :white_check_mark: open education](#python-tutor)
 
-## [js-parsons](http://js-parsons.github.io/) vs. [parsonizer](https://janke-learning.github.io/parsonizer/)
+---
+
+## [js-parsons](http://js-parsons.github.io/) & [parsonizer](https://janke-learning.github.io/parsonizer/)
 
 [Parsons problems](https://interactivepython.org/runestone/static/sigcse2017/Directives/mixedUp.html) are a simple exercise that are very effective for helping beginner programmers learn the structures and logic of code without being overwhelmed by syntax, errors, and bugs.  Students are presented with the lines of a small script shuffled around, their task is to click and drag them into the right order.
 
