@@ -284,7 +284,7 @@ your notes:
 
   {
     let i = 0;                                log.push({i});
-    let condition = i < limit;                log.push({condition});
+    let condition = i < limit;                log.push({condition, op: 'i < limit'});
     while (condition) {
 
       let next_item; { // a + i * b[i-1]
@@ -304,7 +304,7 @@ your notes:
       const next_i = i + 2;                   log.push({i:'i + 2',next_i});
       i = next_i;                             
 
-      condition = i < limit;                  log.push({condition});
+      condition = i < limit;                  log.push({condition, op: 'i < limit'});
     };
   };
 
