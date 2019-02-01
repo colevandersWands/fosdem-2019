@@ -268,7 +268,8 @@ your notes:
 
 ### for: log execution
 
-`{
+```js
+{
   let a = ;
   const b = [null, ];
   const limit = ; 
