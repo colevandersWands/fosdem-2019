@@ -1,28 +1,15 @@
 # [open source !== open education](https://janke-learning.github.io/fosdem-2019/#/open-source-open-education)
 
 
-[open education resources](https://opensource.com/resources/what-open-education) are resource used for education that are published under an open-source license.  This includes software but also things like slides, lesson plans, word problems, videos, etc. Let's that idea one step further and define __open education__ as:
+In the world of computers and programming, there is open source.  In the world of education there are [open education resources](https://opensource.com/resources/what-open-education), resource used for education that are published under an open-source license.  This includes software but also things like slides, lesson plans, word problems, videos, etc. Let's that idea one step further and define __open education__ as:
 
-> any educational content or methods that can be readily adopted & adapted to a wide variety of contexts by direct stakeholders (teachers, students, parents, employers, ...) working within their existing means.
+> any educational content or method that can be readily adapted to a wide variety of learning environments by direct stakeholders (teachers, students, parents, employers, ...) working within their existing means.
 
-provide two definitions, one for _open-source_ and one for _open-education_:
-* __open-source__: any software for which the source code is freely available.  there are many different classes of open-source licenses, but they all share this common core.
-* __open-education__: any form of education that can be readily adopted & adapted to wide variety of contexts by those directly involved (teachers, students, parents, employers, ...).
+This definition of open-eductaion is a stricter standard than is generally placed on open-source software or open educational resources, but it is a very important distinction to make. In the world of programming, every new piece of software and every additional tool can add substantial complexity to your project.  In the world of education resources are always short, professional trainings are too few, and workloads are too high.  On the flip side, teachers & students are the ones who know their contextual challenges better than anyone. 
 
-This definition of open-eductaion has stricter implications than does the more general definition of __open educational resources__.
+When preparing open resources for computing education it is important to ballance ease of use with prescription, creating resources that enable teachers & students alike to flexibly update their existing courses or easily create new ones without needing to learn a whole new set of single-purpose tools.
 
-  open source but not open education
-    - freecodecamp
-    source is available, but adapting it is beyond the skill or time of almost all educators or students
-  open education but not open source
-    - replit
-    source is closed
-    but the tool enables teachers to create and manage their own courses & exercises
-    and students can use this to collaborate, share and study their own challenges
-  open source & open education
-    - python tutor
-    the source is open for developers to do what we please with
-    the tool is phenominal for enabling students and teachers to improve whatever they are doing
+### Index
 
 ## [js-parsons](http://js-parsons.github.io/) vs. [parsonizer](https://janke-learning.github.io/parsonizer/)
 
