@@ -201,6 +201,8 @@ your notes:
     a *= b[i];
   };
 
+  actual = b.pop();
+
   console.log(actual === expected, actual + ' !== ' + expected);
 };
 ```
@@ -223,6 +225,8 @@ your notes:
       i+=2;
     };
   };
+
+  actual = b.pop();
 
   console.log(actual === expected, actual + ' !== ' + expected);
 };
@@ -261,6 +265,8 @@ your notes:
       i = next_i;
     };
   };
+
+  actual = b.pop();
 
   console.log(actual === expected, actual + ' !== ' + expected);
 };
@@ -301,6 +307,8 @@ your notes:
       condition = i < limit;              log.push({condition});
     };
   };
+
+  actual = b.pop();
   
   console.log(actual === expected, actual + ' !== ' + expected);
   console.log(log);
