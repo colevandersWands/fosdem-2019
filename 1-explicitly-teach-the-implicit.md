@@ -251,7 +251,7 @@ your notes:
       next_item = val_4; };  
       b.push(next_item);
 
-      const next_a { // = a * b[i];
+      let next_a { // = a * b[i];
         const val_1 = b[i];
         const val_2 = a * val_1;
       next_a = val_2; };
@@ -289,7 +289,7 @@ your notes:
       next_item = val_4; };  
       b.push(next_item);                      log.push({b:b.slice()});
 
-      const next_a { // = a * b[i];
+      let next_a { // = a * b[i];
         const val_1 = b[i];
         const val_2 = a * val_1;              log.push({a:'a * b[i]',val_1,val_2});
       next_a = val_2; };
