@@ -141,20 +141,20 @@ try playing around with each refactor in the console passing through different v
   let condition_1; { // = a == b || a && c;     
     const val_1 = a == b;
     const val_2 = a && c;
-    const val_3 = val_1 || val_2;               log.push({condition_1: val_3, val_1, val_2, val_3});
+    const val_3 = val_1 || val_2;               log.push({condition_1:'a == b || a && c',val_1,val_2,val_3});
   condition_1 = val_3; };                        
 
   let condition_2; { // = !c > !b;
     const val_1 = !c;
     const val_2 = !b;
-    const val_3 = val_1 > val_2;                log.push({condition_2: val_3, val_1, val_2, val_3});
+    const val_3 = val_1 > val_2;                log.push({condition_2: '!c > !b', val_1, val_2, val_3});
   condition_2 = val_3; };                        
 
   if (condition_1) {
 
     actual; { // = a + b + c;
       const val_1 = a + b;
-      const val_2 = val_1 + c;                  log.push({actual: val_2, val_1, val_2});
+      const val_2 = val_1 + c;                  log.push({actual:'a + b + c', val_1, val_2});
     actual = val_2; };
 
   } else if (!c > !b) {
@@ -162,7 +162,7 @@ try playing around with each refactor in the console passing through different v
     actual; { // = c || b + '';
       const val_1 = b + '';
       const val_2 = c || val_1;
-    actual = val_2; };                           log.push({actual: val_2, val_1, val_2});
+    actual = val_2; };                           log.push({actual: "c || b + ''", val_1, val_2});
 
   } else {
     actual = null;                              log.push({actual});
@@ -284,17 +284,17 @@ your notes:
         const val_1 = i - 1;
         const val_2 = b[val_1];
         const val_3 = i * val_2;
-        const val_4 = a + val_3;              log.push({next_item: val_4, val_1,val_2,val_3,val_4});
+        const val_4 = a + val_3;              log.push({next_item:'a + i * b[i-1]',val_1,val_2,val_3,val_4});
       next_item = val_4; };  
       b.push(next_item);                      log.push({b:b.slice()});
 
       const next_a { // = a * b[i];
         const val_1 = b[i];
-        const val_2 = a * val_1;              log.push({a: val_2, val_1});
+        const val_2 = a * val_1;              log.push({a:'a * b[i]',val_1,val_2});
       next_a = val_2; };
       a = next_a;                             
 
-      const next_i = i + 2;                   log.push({i: next_i});
+      const next_i = i + 2;                   log.push({i:'i + 2',next_i});
       i = next_i;                             
 
       let condition = i < limit;              log.push({condition});
