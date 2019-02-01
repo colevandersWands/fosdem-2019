@@ -6,7 +6,7 @@ each example has the exact same challenge, test cases, explanation and resources
 * how does each environment change your interaction with the code, is one easier or harder?
 * what implicit & explicit skills are practiced or avoided in each environment?
 * which version will most directly prepare students for developing real projects in a professional development environment?
-* which format is easier for making more exercises?  does amount the of effort relate to better student learning?
+* which format is easier for making more exercises?  does the amount of effort relate to better student learning?
 
 ### Index
 * [original on FreeCodeCamp](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-algorithm-scripting/reverse-a-string)
