@@ -23,15 +23,19 @@ When creating open resources for computing education it is especially important 
 
 [Parsons problems](https://interactivepython.org/runestone/static/sigcse2017/Directives/mixedUp.html) are a simple exercise that are very effective for helping beginner programmers learn the structures and logic of code without being overwhelmed by syntax, errors, and bugs.  Students are presented with the lines of a small script shuffled around, their task is to click and drag them into the right order.
 
-__Js-parsons__ is an open source tool developed so teachers can embed parsons problems into their courses, [like so](https://janke-learning.github.io/parsons-control-flow/).  This is an outstanding open source educational tool, but it falls slightly short of being a full open-education tool because it is beyond a beginner student's ability to build or adapt their own parsons problems.  While this tool is simple enough to use, it is still complex enough that it would require quite some time and expertise for an average teacher to fully incorporate it into their existing course.
+__Js-parsons__ is an open source tool developed so teachers can embed parsons problems into their courses, [like so](https://janke-learning.github.io/parsons-control-flow/).  This is an outstanding open source educational resource, but it falls slightly short of being a full open-education tool because it is beyond most students' ability to build or adapt their own parsons problems.  While this tool is simple enough to use, it is still complex enough that it would be beyond the time and expertise for an average teacher to fully incorporate it into their existing course.
 
-__Parsonizer__ is an open-education tool built around js-parsons that automatically generates a parsons problem for any given snippet of code.  The barriers to any student or teacher incorporating this tool into their existing course, or building a new course around it, are essentially none.  This is both open source and open education.
+__Parsonizer__ is an open-education tool built around js-parsons that automatically generates a parsons problem for any given snippet of code.  The barriers to any student or teacher incorporating this tool into their existing course, or building a new course around it, are essentially none. All that is required of a teacher is to build a good collection of themed snippets, and all that's required of a student is to collect the snippets of code that have taught them the most.  This is both open source and open education.
 
 [TOP](#)
 
 ---
 
 ## [FreeCodeCamp](https://www.freecodecamp.org/)
+
+FreeCodeCamp is easily one of the largest and most successful online resources for learning javascript.  They have over 1200 hours of exercises and projects, hundreds of blog posts & videos, a very supportive online community, and in-person study groups all around the world.  Additionally, they keep all the code and exercises for their online school open-source on github.    It's no exageration to say that this is one of the single greatest free resources online for anyone wishing to learn how to program in JavaScript.
+
+Despite the strength and openness of it's human followers, the online FreeCodeCamp programming environmnet is not open education.  The content provided is fairly prescriptive, and the technical barriers of entry for contributing or forking and adapting the course are non-trivial. Additionally, their online coding environmnt does very little to prepare students for coding outside of it's protective confines, and does not enable students to explore concepts not directly covered.  
 
 [TOP](#)
 
