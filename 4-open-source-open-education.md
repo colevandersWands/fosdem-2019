@@ -43,11 +43,19 @@ Despite the strength and openness of it's human followers, the online FreeCodeCa
 
 ## repl.it [classroom](https://repl.it/site/blog/classroomoverview) & [multiplayer](https://repl.it/site/blog/multi)
 
+Repl.it is a no-install online runtime environment that supports a huge list of programming languages, development frameworks and testing tools.  They also have free utilites for teachers to create, assign, track & automatically or manually grade programming assignemnts.  Repl.it recently added a multiplayer feature the enables anyone to live-code in the same virtual machine with integrated chats.  While rebuilding a whole course to host on Repl.it would take considerable time and energy, putting up the occasional homework assignment and hosting new examples Repl.it is an easy way to upgrade.  
+
+The lengths that replit has gone to create low-effort high-impact tools for students and teachers alike makes it a top-rate tool for open education, even if they still aren't open source.
+
 [TOP](#)
 
 ---
 
 ## [python tutor](http://www.pythontutor.com/)
+
+Python Tutor is easily the most valuable resource on this list for any computing educator or coding student.  Being able to accurately predict how JavaScript executes code behind the scenes is one of the most valuable skills students can develop, and the sooner the better. Python Tutor was designed specifically to visualize how different programming languages manage memory and step through their source code.  
+
+Not only can you make permalinks to save your progress, work real-time on the same code, and chat live with others, but it has a simple integrated development environment that lets you copy in any snippet and privides helpful feedback about syntax and runtime errors.  This is a prime example of a project that is both open source and an invaluable tool for open computing education.
 
 [TOP](#)
 
