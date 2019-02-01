@@ -298,7 +298,7 @@ your notes:
       const next_i = i + 2;                   log.push({i:'i + 2',next_i});
       i = next_i;                             
 
-      let condition = i < limit;              log.push({condition});
+      condition = i < limit;              log.push({condition});
     };
   };
   
