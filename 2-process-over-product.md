@@ -47,7 +47,7 @@ test_cases = [
     {name:'roadwork', args:['roadwork'], expected:'.k.r.o.w.d.a.o.r'},
     {name:'p 9**7  _', args:['p 9**7  _'], expected:'._. . .7.*.*.9. .p'},
     {name:'\n \t\t', args:['\n \t\t'], expected:'.\t.\t. .\n'},
-    {name:'tr, tr, fa', args:['tr, tr, fa'], expected:'.a.f. .,.r.t.,. .r.t'},
+    {name:'tr, tr, fa', args:['tr, tr, fa'], expected:'.a.f. .,.r.t. .,.r.t'},
     {name:'', args:[''], expected:''},
     {name:'e', args:['e'], expected:'.e'},
  ];
@@ -255,13 +255,16 @@ r(str) === right(str) + left(str)                 ::  if (lenght > 1)
 rewrite the solution to be a single expression composed of the chunks you wrote earlier
 
 ```js
-const bc = base_case;
-const ta = turn_around;
-const bd = break_down;
-const recurse = (arr) => [ r(arr[0]), r(arr[1]) ];
-const bu = build_up;
+{
+  const bc = is_base;
+  const ta = turn_around;
+  const bd = break_down;
+  const recurse = (arr) => [ r(arr[0]), r(arr[1]) ];
+  const bu = build_up;
 
-const r = (str) => (bc(str)) ? ta(str) : bu(...recurse(bd(str)));
+  const r = (str) => (bc(str)) ? ta(str) : bu(...recurse(bd(str)));
+  run_tests(r, test_cases);
+};
 ```
 
 [TOP](#process-over-product)
