@@ -58,7 +58,7 @@ The lengths that replit has gone to create low-effort high-impact tools for stud
 
 ## [python tutor](http://www.pythontutor.com/)
 
-Python Tutor is easily the most valuable resource on this list for any computing educator or coding student.  Being able to accurately predict how JavaScript executes code behind the scenes is one of the most valuable skills students can develop, and the sooner the better. Python Tutor was designed specifically to visualize how different programming languages manage memory and step through their source code.  
+Python Tutor is easily the most valuable resource on this list for computing educators or beginning student.  Being able to accurately predict how JavaScript executes code behind the scenes is one of the most valuable skills students can develop, and the sooner the better. Python Tutor was designed specifically to visualize how different programming languages manage memory and step through their source code.  
 
 Not only can you make permalinks to save your progress, work real-time on the same code, and chat live with others, but it has a simple integrated development environment that lets you copy in any snippet and privides helpful feedback about syntax and runtime errors.  This is a prime example of a project that is both open source and an invaluable tool for open computing education.
 
