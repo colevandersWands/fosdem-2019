@@ -283,7 +283,7 @@ your notes:
   let actual;
 
   {
-    let i = 0; 
+    let i = 0;                                log.push({i});
     let condition = i < limit;                log.push({condition});
     while (condition) {
 
@@ -304,7 +304,7 @@ your notes:
       const next_i = i + 2;                   log.push({i:'i + 2',next_i});
       i = next_i;                             
 
-      condition = i < limit;              log.push({condition});
+      condition = i < limit;                  log.push({condition});
     };
   };
 
