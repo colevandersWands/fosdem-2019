@@ -3,21 +3,11 @@
 
 the next standard in open computing education will be built around javascript.  it may not be the ideal beginner language, but a broader look at the requirements for such an open course will show that not only is javascript the only real option, but that it is actually a very good one. With some effort and imagination JS's extreme flexibility, accessible developer tools & integrated ui functionality (DOM) can be put to use making JS an outstanding choice for an entry level course in computational literacy.
 
-What exactly is computational/digital literacy? it's difficult to satisfactorily dine, though there are some [pretty good attempts](https://computinged.wordpress.com/2012/04/06/a-nice-definition-of-computational-thinking-including-risks-and-cyber-security/) out there. What's easier is to demonstrate the type of project that could be expected at the end of such a course:
+What exactly is computational/digital literacy? it's difficult to satisfactorily define, though there are some [pretty good definitions](https://computinged.wordpress.com/2012/04/06/a-nice-definition-of-computational-thinking-including-risks-and-cyber-security/) out there. What's easier to demonstrate is the type of project that could be expected at the end of such a course:
 * [final project](https://github.com/janke-learning/statefull-project-demo)
   
 Without being beyond the reach of a first-year student, this project demonstrates basic mastery of:
-* a programming language
-* testing & documentation
-* structured development
-* abstraction
-* embedding problems for applied computing
-* recursion
-* basic data modeling 
-* applications as core data with user interactions
-* open source software 
-* professional development tools
-* user interaction & experience
+* a programming language, testing & documentation, structured development, abstraction, embedding problems for applied computing, recursion, basic data modeling , applications as core data with user interactions, open source software , professional development tools, user interaction & experience
 
 > For an idea of how to implement this course, [check out the slideshow in this repo](http://janke-learning.github.io/fosdem-2019).
 
