@@ -108,7 +108,6 @@ __coding is not about code__
 * emphasize applied computing
     * [embedding & debedding](https://github.com/janke-learning/stateless-demo-project)
 * understand development as a structured creative process
-    * [test cases](https://github.com/janke-learning/test-cases)
     * [fully literate project](https://github.com/janke-learning/statefull-demo-project)
 
 
