@@ -3,21 +3,11 @@
 
 the next standard in open computing education will be built around javascript.  it may not be the ideal beginner language, but a broader look at the requirements for such an open course will show that not only is javascript the only real option, but that it is actually a very good one. With some effort and imagination JS's extreme flexibility, accessible developer tools & integrated ui functionality (DOM) can be put to use making JS an outstanding choice for an entry level course in computational literacy.
 
-What exactly is computational/digital literacy? it's difficult to satisfactorily dine, though there are some [pretty good attempts](https://computinged.wordpress.com/2012/04/06/a-nice-definition-of-computational-thinking-including-risks-and-cyber-security/) out there. What's easier is to demonstrate the type of project that could be expected at the end of such a course:
+What exactly is computational/digital literacy? it's difficult to satisfactorily define, though there are some [pretty good definitions](https://computinged.wordpress.com/2012/04/06/a-nice-definition-of-computational-thinking-including-risks-and-cyber-security/) out there. What's easier to demonstrate is the type of project that could be expected at the end of such a course:
 * [final project](https://github.com/janke-learning/statefull-project-demo)
   
 Without being beyond the reach of a first-year student, this project demonstrates basic mastery of:
-* a programming language
-* testing & documentation
-* structured development
-* abstraction
-* embedding problems for applied computing
-* recursion
-* basic data modeling 
-* applications as core data with user interactions
-* open source software 
-* professional development tools
-* user interaction & experience
+* a programming language, testing & documentation, structured development, abstraction, embedding problems for applied computing, recursion, basic data modeling , applications as core data with user interactions, open source software , professional development tools, user interaction & experience
 
 > For an idea of how to implement this course, [check out the slideshow in this repo](http://janke-learning.github.io/fosdem-2019).
 
@@ -65,7 +55,7 @@ __The interpreter as learning objective & learning environment__
 
 ## [agency](https://pllc.fi.ncsu.edu/2018/02/22/learner-agency-pushing-the-boundaries-of-educational-possibilities-in-the-digital-age/)
 
-The resources students use to learn should themselves be [realistically open-source](https://github.com/janke-learning/fosdem-2019/blob/master/5-open-source-open-education.md) for students, embedding digital agency into the core of their learning experience.
+The resources students use to learn should themselves be [realistically open-source](./5-open-source-open-education.md) for students, embedding digital agency into the core of their learning experience.
 
 __student-accessible open education__
 * simply-hosted learning materials
@@ -107,21 +97,18 @@ __readily adapted__
 
 ## [integration](http://electronicbookreview.com/essay/critical-code-studies/)
 
-projects should instill a surround-sound understanding of the role code plays at the center of digital rhetorical spaces, implementing theoretical concepts to bring to life new spaces where users, developers and the world at large come together with walls.
-* integration: understand the central role of the developer and code at the center of the modern digital rhetorical space, creating and influencing the very world we live in and how it is experienced. learn their place in this rhetorical space
-* integrative: emphasize the interfaces between humans (devs & users), running programs, and machines
+the course should build a wholistic understanding of the creative & controlling role programming plays at the center of a digital society.
 
 __coding is not about code__
 * encourage creative and extra-curricular programming
-    * JS has html, css & the internet
     * [if hemingway](https://github.com/janke-learning/if-hemingway)
-* address the pillars of an integrative computational literacy
+    * JS has html, css & the internet
+* explicitly teach an integrative computational literacy
+    * [rhetorical space created with code](./rhetorical-situation.png)
 * emphasize applied computing
     * [embedding & debedding](https://github.com/janke-learning/stateless-demo-project)
-* development process & validation testing & documentation
-    https://github.com/janke-learning/test-cases
-    https://github.com/janke-learning/stateless-demo-project
-    https://github.com/janke-learning/statefull-project-demo
+* understand development as a structured creative process
+    * [fully literate project](https://github.com/janke-learning/statefull-demo-project)
 
 
 
