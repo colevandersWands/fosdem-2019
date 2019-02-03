@@ -110,22 +110,19 @@ __readily adapted__
 projects should instill a surround-sound understanding of the role code plays at the center of digital rhetorical spaces, implementing theoretical concepts to bring to life new spaces where users, developers and the world at large come together with walls.
 * integration: understand the central role of the developer and code at the center of the modern digital rhetorical space, creating and influencing the very world we live in and how it is experienced. learn their place in this rhetorical space
 * integrative: emphasize the interfaces between humans (devs & users), running programs, and machines
+
+__coding is not about code__
 * encourage creative and extra-curricular programming
-    js has html, css & the internet
-    https://github.com/janke-learning/if-hemingway
+    * JS has html, css & the internet
+    * [if hemingway](https://github.com/janke-learning/if-hemingway)
 * address the pillars of an integrative computational literacy
-    * computer science
-    * using code
-    * structured development
-    * communicative coding
-    * user & world focused development
 * emphasize applied computing
     * [embedding & debedding](https://github.com/janke-learning/stateless-demo-project)
 * development process & validation testing & documentation
     https://github.com/janke-learning/test-cases
     https://github.com/janke-learning/stateless-demo-project
     https://github.com/janke-learning/statefull-project-demo
-    student can see and manipulate all facets of an application in one window
+
 
 
 [TOP](#js-for-open-computing-education)
