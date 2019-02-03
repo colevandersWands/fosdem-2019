@@ -65,7 +65,7 @@ __The interpreter as learning objective & learning environment__
 
 ## [agency](https://pllc.fi.ncsu.edu/2018/02/22/learner-agency-pushing-the-boundaries-of-educational-possibilities-in-the-digital-age/)
 
-The resources students use to learn should themselves be [realistically open-source](https://github.com/janke-learning/fosdem-2019/blob/master/5-open-source-open-education.md) for students, embedding digital agency into the core of their learning experience.
+The resources students use to learn should themselves be [realistically open-source](./5-open-source-open-education.md) for students, embedding digital agency into the core of their learning experience.
 
 __student-accessible open education__
 * simply-hosted learning materials
@@ -107,21 +107,19 @@ __readily adapted__
 
 ## [integration](http://electronicbookreview.com/essay/critical-code-studies/)
 
-projects should instill a surround-sound understanding of the role code plays at the center of digital rhetorical spaces, implementing theoretical concepts to bring to life new spaces where users, developers and the world at large come together with walls.
-* integration: understand the central role of the developer and code at the center of the modern digital rhetorical space, creating and influencing the very world we live in and how it is experienced. learn their place in this rhetorical space
-* integrative: emphasize the interfaces between humans (devs & users), running programs, and machines
+the course should build a wholistic understanding of the creative & controlling role programming plays at the center of a digital society.
 
 __coding is not about code__
 * encourage creative and extra-curricular programming
-    * JS has html, css & the internet
     * [if hemingway](https://github.com/janke-learning/if-hemingway)
-* address the pillars of an integrative computational literacy
+    * JS has html, css & the internet
+* explicitly teach an integrative computational literacy
+    * [rhetorical space created with code](./rhetorical-situation.png)
 * emphasize applied computing
     * [embedding & debedding](https://github.com/janke-learning/stateless-demo-project)
-* development process & validation testing & documentation
-    https://github.com/janke-learning/test-cases
-    https://github.com/janke-learning/stateless-demo-project
-    https://github.com/janke-learning/statefull-project-demo
+* understand development as a structured creative process
+    * [test cases](https://github.com/janke-learning/test-cases)
+    * [fully literate project](https://github.com/janke-learning/statefull-demo-project)
 
 
 
