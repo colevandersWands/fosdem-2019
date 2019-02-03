@@ -87,18 +87,19 @@ __student-accessible open education__
 ## [ownership](https://www.naldic.org.uk/Resources/NALDIC/Initial%20Teacher%20Education/Documents/SocialandCulturalContext.pdf)
   
 
+Students, teachers, communities and families should feel that their education is theirs.  That it covers what is needed for them to thrive in their own context, and is delivered in a mode that complements their lives. For this to be possible, educators should be able to adapt this course to fit their needs with no more technical knowledge than is necessary to teach the course.
 
-students, teachers, communities and families should be able to adapt the course to their needs with no more technical knowledge than is required to complete the course
-  * modular and easily adjusted course outlines
-      https://github.com/janke-learning/top
-  * zero-dependancy open learning environments:
-      * [python tutor](http://www.pythontutor.com/)
-      * [repl.it](https://repl.it/)
-      * [dev console](https://developer.mozilla.org/nl/docs/Tools)
-      * [github](https://github.com/) or [gitlab](https://about.gitlab.com/)
-      * [ast explorer](https://astexplorer.net/#/gist/e22d33e10f7c29268d5074803e35ced5/dc62a6c670ad23a226b4a7ae1ac017c28199b58e)
+__readily adapted__
+* modular and easily adjusted course syllabi
+    * [top](https://github.com/janke-learning/top)
+* zero-dependancy, non-prescriptive open learning environments
+    * [python tutor](http://www.pythontutor.com/)
+    * [repl.it](https://repl.it/)
+    * [dev console](https://developer.mozilla.org/nl/docs/Tools)
+    * [github](https://github.com/) or [gitlab](https://about.gitlab.com/)
+    * [ast explorer](https://astexplorer.net/#/gist/e22d33e10f7c29268d5074803e35ced5/dc62a6c670ad23a226b4a7ae1ac017c28199b58e)
+* highly granular repository-based content
   
-
 
 [TOP](#js-for-open-computing-education)
 
