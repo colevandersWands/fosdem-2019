@@ -110,22 +110,22 @@ __readily adapted__
 projects should instill a surround-sound understanding of the role code plays at the center of digital rhetorical spaces, implementing theoretical concepts to bring to life new spaces where users, developers and the world at large come together with walls.
 * integration: understand the central role of the developer and code at the center of the modern digital rhetorical space, creating and influencing the very world we live in and how it is experienced. learn their place in this rhetorical space
 * integrative: emphasize the interfaces between humans (devs & users), running programs, and machines
-  * encourage creative and extra-curricular programming
-      js has html, css & the internet
-      https://github.com/janke-learning/if-hemingway
-  * address the pillars of an integrative computational literacy
-      * computer science
-      * using code
-      * structured development
-      * communicative coding
-      * user & world focused development
-  * emphasize applied computing
-      embedding in demo project
-  * development process & validation testing & documentation
-      https://github.com/janke-learning/test-cases
-      https://github.com/janke-learning/stateless-demo-project
-      https://github.com/janke-learning/statefull-project-demo
-      student can see and manipulate all facets of an application in one window
+* encourage creative and extra-curricular programming
+    js has html, css & the internet
+    https://github.com/janke-learning/if-hemingway
+* address the pillars of an integrative computational literacy
+    * computer science
+    * using code
+    * structured development
+    * communicative coding
+    * user & world focused development
+* emphasize applied computing
+    * [embedding & debedding](https://github.com/janke-learning/stateless-demo-project)
+* development process & validation testing & documentation
+    https://github.com/janke-learning/test-cases
+    https://github.com/janke-learning/stateless-demo-project
+    https://github.com/janke-learning/statefull-project-demo
+    student can see and manipulate all facets of an application in one window
 
 
 [TOP](#js-for-open-computing-education)
@@ -134,30 +134,20 @@ projects should instill a surround-sound understanding of the role code plays at
 
 ## [preparation](https://www.hv.se/globalassets/dokument/stodja/paper-theme-2-5.pdf)
 
-students completing an introductory course in computational literacy should be prepared to continue their studies down any of the relevant paths, and be prepared with skills that won't go out of fasion and will allow them to adapt to changing world
-  * introduce core theoretical concepts with applied exercises
-      boolean algebra & simplifying expressions
-      https://github.com/janke-learning/recursion
-      https://github.com/janke-learning/simplifying-boolean-expressions
-      https://github.com/janke-learning/boolean-algebra
-  * deep understanding of language & program design
-      https://github.com/janke-learning/janke-the-framework
-      https://github.com/janke-learning/comparadigms
-  * future-proofed learning & skills
-    * javascript ain't goin anywhere
-    * core programming skills & thinking won't go anywhere
+students completing an introductory course in computational literacy should be better prepared to take the next step in their education, should that be deeper into programming or not.
 
-The most important skills in the coming century cannot be taught explicitly in a traditional calssroom setting.  So called « 21st Century Skills » are elusive to traditional teaching methods, but can be effectvely taught & learned with well-matched instructional design methodologies.  All such instructional designs will have a shared core, and a contextually dependant implementation.  
-
-The shared core of any 21st Century instructional design is a sensitivity to the fundamental mechanisms of human learning, and the acquisition of higher-order cognitive and executive functions (aka 21st century skills) through the guided pracitce of technical skills in pedagogically designed scenarios.  Once mastered in one domain, 21st Century Skills can transfer accross domains as indiviuals face shifting and uncertain futures.
-
-Any contextually sensitive implementation needs to satsify 3 criteria, which can only be met with empathy for the affected community and an understanding of the actual professional context:
-
-Community Ownership: Education is intimate. In the big picture, it plays a large role in determining what a society will be in 10 years.  On a daily basis, students, teachers & staff must want to be there. Educational institutions should be run by and for the community it serves. An educational institution will not succeed if the community it serves cannot feel that it is irrelevant, out of their control, or cannot be trusted.  
-
-Contextual Relevency: The offerings, structure, and deployment of an educational offering must match the daily needs of it's host. what skills are needed for an individual to thrive in, and grow their community? what resources (time, money, concentration, scheduling) are individuals capapble of investing in their education?
-
-Expert Domain Knowledge:  21st Century Skills are best learned on the back of practical experience.  To maximize the transfer of practical skills to the professional setting and to provide a solid base for learning 21st Century Skills, 21st Century Trainings must be built around the insights & experiences of active professionals in the target field.
+__preparatory__
+* introduce core theoretical concepts with applied exercises
+    * [recursion](https://github.com/janke-learning/recursion)
+    * [boolean algebra](https://github.com/janke-learning/boolean-algebra)
+    * [proof](https://github.com/janke-learning/simplifying-boolean-expressions)
+* deep understanding of language & program design
+    * [comparadigms](https://github.com/janke-learning/comparadigms)
+    * [janke: the framework](https://github.com/janke-learning/janke-the-framework)
+* exposure to structured solution design
+    * [stateless project](https://github.com/janke-learning/stateless-demo-project)
+* focus on core computing skills over any tooling or frameworks
+* emphasis on the applied, contextual & human nature of software
 
 
 [TOP](#js-for-open-computing-education)
