@@ -22,7 +22,7 @@ Without being beyond the reach of a first-year student, this project demonstrate
 > For an idea of how to implement this course, [check out the slideshow in this repo](http://janke-learning.github.io/fosdem-2019).
 
 
-A fully open course in computational literacy should have embedded into it's very essence ...
+To be successful, a fully open course in computational literacy should have embedded into it's very essence ...
 
 * [honesty](#honesty)
 * [agency](#agency)
@@ -35,11 +35,11 @@ ___
 ## [honesty](https://en.wikiversity.org/wiki/Intellectual_Honesty)
   
 
-The next generation of programmers should grow up understanding that while programming is hard, it can be understood at face value, and they can learn it. 
+The next generation of programmers should grow up understanding that while programming is hard it can be understood at face value, and they can understand it. 
 
-[Prof. dr. Edsger W. Dijkstra](https://www.cs.utexas.edu/users/EWD/transcriptions/EWD10xx/EWD1036.html) says that the only true way to teach programming is by writing proofs by hand, on paper, approaching coding like a purely mathematical skill. Only then, he claims, can students truly understand the "radical novelty" of computation. He's onto something, analogies or high-level understanding are appealing and rewarding but ineffective for true learning.
+[Prof. dr. Edsger W. Dijkstra](https://www.cs.utexas.edu/users/EWD/transcriptions/EWD10xx/EWD1036.html) says that the only true way to teach computer science is by writing proofs by hand, on paper, approaching cs first as a purely mathematical skill. Only then, he claims, can students truly understand the "radical novelty" of computation. He's onto something, analogies or high-level understanding are appealing and rewarding but ineffective for true learning.
 
-The programming equivalent of dikjstra's method for teaching cs is to create exercises whose primary learning objective is the [notional machine](https://www.researchgate.net/profile/Juha_Sorva/publication/259998496_Notional_Machines_and_Introductory_Programming_Education/links/5586b8f008aef58c039f90f5/Notional-Machines-and-Introductory-Programming-Education.pdf), emphasizing the [_structure_ of programming languages](https://computinged.wordpress.com/2012/05/24/defining-what-does-it-mean-to-understand-computing/) & scripts more than the role they play or what ends they achieve.  To keep things intellectually honest these exercises should include "meaningless" snippets of code with no attempt to connect them to anything outside of their own execution.  Taking this notion one step further leads to the idea that not only should the focus of the exercise be simply how the code is executed, but that the 'learning environment' should simply be the runtime environment, and any feedback to students comes directly from the machine, gathered by the machine throughout it's own execution with no intermediary software or interfaces. If successful, such an approach would play the double role of teaching students a practical notional machine __and__ equipping them with the skills necessary to embed such feedback and monitoring into any script they encounter. 
+The programming equivalent of dikjstra's method for teaching cs is to create exercises whose primary learning objective is the [notional machine](https://www.researchgate.net/profile/Juha_Sorva/publication/259998496_Notional_Machines_and_Introductory_Programming_Education/links/5586b8f008aef58c039f90f5/Notional-Machines-and-Introductory-Programming-Education.pdf), emphasizing the [_structure_ of programming languages](https://computinged.wordpress.com/2012/05/24/defining-what-does-it-mean-to-understand-computing/) & scripts over the role they play or what ends they achieve.  To keep things intellectually honest these exercises should include "meaningless" snippets of code with no attempt to connect them to anything outside of their own execution.  Taking this notion one step further leads to the idea that not only should the focus of the exercise be simply how the code is executed, but that the 'learning environment' should simply be the runtime environment, and any feedback to students comes directly from the machine, gathered by the machine throughout it's own execution with no intermediary software or interfaces. If successful, such an approach would play the double role of teaching students a practical notional machine __and__ equipping them with the skills necessary to embed such feedback and monitoring into any code they encounter. 
 
 
 __The interpreter as learning objective & learning environment__
@@ -54,6 +54,10 @@ __The interpreter as learning objective & learning environment__
     * [trace & log](https://github.com/janke-learning/trace-and-log)
     * [execution paths](https://github.com/janke-learning/execution-paths)
     * [trace & assert](https://github.com/janke-learning/trace-and-assert/)
+* Fully embedded learning resource
+    * [boolean by example](https://github.com/janke-learning/boolean-by-example)
+    * [recursive calls](https://janke-learning.github.io/recursive-calls)
+    * ['this' and events](https://janke-learning.github.io/fosdem-2019/4-full-complexity-max-simplicity/index.html)
 
 [TOP](#js-for-open-computing-education)
 
@@ -61,17 +65,20 @@ __The interpreter as learning objective & learning environment__
 
 ## [agency](https://pllc.fi.ncsu.edu/2018/02/22/learner-agency-pushing-the-boundaries-of-educational-possibilities-in-the-digital-age/)
 
-the resources students use to learn should themselves be realistically open to students, embedding agency at the most basic level. 
-  * be composed of tools for true open education
-      https://github.com/janke-learning/js-parsons-starter
-      https://github.com/janke-learning/parsonizer
-      * [python tutor](http://www.pythontutor.com/)
-  * accessibly open-source, embedded learning resources
-      https://janke-learning.github.io/recursive-calls/
-      https://janke-learning.github.io/boolean-algebra/
-      https://janke-learning.github.io/fosdem-2019/4-full-complexity-max-simplicity/index.html
-      https://janke-learning.github.io/arithmetic-coercion/
-      https://github.com/janke-learning/parsons-control-flow
+The resources students use to learn should themselves be [realistically open-source](https://github.com/janke-learning/fosdem-2019/blob/master/5-open-source-open-education.md) for students, embedding digital agency into the core of their learning experience.
+
+__student-accessible open education__
+* simply-hosted learning materials
+    * [errors](https://github.com/janke-learning/errors)
+    * [test cases](https://github.com/janke-learning/test-cases)
+* be composed of tools for fully open education
+    * [python tutor](http://www.pythontutor.com/)
+    * [js-parsons starter](https://github.com/janke-learning/js-parsons-starter)
+    * [parsonizer](https://github.com/janke-learning/parsonizer)
+* accessibly open-source learning resources
+    * [arithmetic coercion](https://github.com/janke-learning/arithmetic-coercion)
+    * [boolean by example](https://github.com/janke-learning/boolean-by-example)
+    * [parsons control flow](https://github.com/janke-learning/parsons-control-flow)
 
 [TOP](#js-for-open-computing-education)
 
