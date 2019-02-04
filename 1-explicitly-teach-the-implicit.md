@@ -163,8 +163,8 @@ run the fully expanded & logged snippet in the console, then scroll the markdown
 
     actual; { // = c || b + '';
       const val_1 = b + '';
-      const val_2 = c || val_1;
-    actual = val_2; };                           log.push({actual: "c || b + ''", val_1, val_2});
+      const val_2 = c || val_1;                 log.push({actual: "c || b + ''", val_1, val_2});
+    actual = val_2; };                           
 
   } else {
     actual = null;                              log.push({actual});
