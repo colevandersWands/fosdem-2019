@@ -27,7 +27,9 @@ at first glance the expanded code may feel like just a lot of extra work, but th
 
 below are two snippets of code, one made up of an if/elseif/else and one of a for loop.  each snippet has been refactored 3 different ways - each more explicit than the last
 
-try playing around with each refactor in the console passing through different values.  which version is easier to understand and explain back to someone else?
+try playing around with each refactor in the console passing through different values.  which version is easier to understand and explain back to someone else?  
+
+run the fully expanded & logged snippet in the console, then scroll the markdown up to the original unexpanded snippet.  how does this compare to trying to step through the same code without a log?
 
 [TOP](#explicitly-teach-the-implicit)
 
