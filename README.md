@@ -5,7 +5,7 @@
 
 the next standard in open computing education will be built around javascript.  it may not be the ideal beginner language, but a broader look at the requirements for such an open course will show that not only is javascript the only real option, but that it is actually a very good one. With some effort and imagination JS's extreme flexibility, accessible developer tools & integrated ui functionality (DOM) can be put to use making JS an outstanding choice for an entry level course in computational literacy.
 
-What exactly is computational/digital literacy? it's difficult to satisfactorily define, though there are some [pretty good definitions](https://computinged.wordpress.com/2012/04/06/a-nice-definition-of-computational-thinking-including-risks-and-cyber-security/) out there. What's easier to demonstrate is the type of project that could be expected at the end of such a course:
+What exactly is computational/digital literacy? It's difficult to satisfactorily define, but not for lack of trying ([1](https://computinged.wordpress.com/2012/04/06/a-nice-definition-of-computational-thinking-including-risks-and-cyber-security/), [2](http://denninginstitute.com/pjd/PUBS/CACMcols/cacm-trouble-ct.pdf), [3](https://www.researchgate.net/publication/234812396_Education_Paving_the_way_for_computational_thinking), [4](https://cacm.acm.org/magazines/2019/2/234348-do-we-really-need-computational-thinking/fulltext)). What's easier to demonstrate is the type of project that could be expected at the end of such a course:
 * [final project](https://github.com/janke-learning/statefull-project-demo)
   
 Without being beyond the reach of a first-year student, this project demonstrates basic mastery of:
