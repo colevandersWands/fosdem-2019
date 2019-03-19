@@ -9,29 +9,34 @@ console.log('%c\n contexting "this" in events', 'font-weight:bold');
     innerHTML: 'fake button',
     id: 'context-pojo-element'
   };
-    console.log('\ncontext_pojo_element: ', context_pojo_element);
   context_pojo_element.onclick = call_get_info;
+    
+    console.log('\ncontext_pojo_element: ', context_pojo_element);
     console.log('context_pojo_element.onclick = call_get_info;');
     console.log('context_pojo_element.onclick(): '), context_pojo_element.onclick();
-// dom elements in the dom
+    console.log('\n');
+
+
+// dom elements in the event loop
 
 
   var attribute_dom_element = document.createElement('button');
   attribute_dom_element.innerHTML = 'onclick attribute';
   attribute_dom_element.id = 'attribute-dom-element';
-    console.log('\n');
-    console.dir(attribute_dom_element);
   attribute_dom_element.onclick = call_get_info;    
+
+    console.dir(attribute_dom_element);
     console.log('attribute_dom_element.onclick = call_get_info;');
-    console.log('attribute_dom_element.onclick();'), attribute_dom_element.onclick() ;
+    console.log('attribute_dom_element.onclick();'), attribute_dom_element.onclick();
+    console.log('\n');
 
 
   var listener_dom_element = document.createElement('button');
   listener_dom_element.innerHTML = 'onclick listener';
   listener_dom_element.id = 'listener-dom-element';
-    console.log('\n');
-    console.dir(listener_dom_element);
   listener_dom_element.addEventListener("click", call_get_info);
+
+    console.dir(listener_dom_element);
     console.log('listener_dom_element.addEventListener("click", call_get_info);');
     try {
       console.log('listener_dom_element.onclick():'), listener_dom_element.onclick();
@@ -40,6 +45,8 @@ console.log('%c\n contexting "this" in events', 'font-weight:bold');
       console.log('listener_dom_element.dispatchEvent(new Event("click"):'), listener_dom_element.dispatchEvent(new Event('click'));
     };
 
+
+// render the page
 
   var buttons_div = document.getElementById('buttons');
   var headline = document.createElement('h3');

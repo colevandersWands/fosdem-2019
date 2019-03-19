@@ -16,6 +16,7 @@ When creating open resources for computing education it is especially important 
 * [:white_check_mark: open source, :x: open education](#freecodecamp) 
 * [:x: open source, :white_check_mark: open education](#repl-it-classroom---multiplayer)  
 * [:white_check_mark: open source, :white_check_mark: open education](#python-tutor)
+* [student-accessible OER](#student-accessible-oer)
 
 ---
 
@@ -63,6 +64,16 @@ Python Tutor is the most indispensable resource on this list for any computing e
 Not only can you make permalinks to save your progress, work real-time on the same code, and chat live with others, but it has a simple integrated development environment that lets you copy in any snippet and privides helpful feedback about syntax and runtime errors.  This is a prime example of a project that is both open source and an invaluable tool for open computing education.
 
 :white_check_mark: open source, :white_check_mark: open education
+
+[TOP](#)
+
+---
+
+## Student-Accessible OER
+
+The final tier of open-source education resources is __student-accessible open educational resources__.  These are any learning materials that are not only open-source, but developed at a level that a student could realistically understand & modify.  Having all pieces of a course be student-accessible is not realistic (look at the value added by Python Tutor), but striving to have as much as possible will go a long way to empowering teachers & students.
+
+Arithmetic Coercion: [live coercion table](https://janke-learning.github.io/arithmetic-coercion/), [source code](https://github.com/janke-learning/arithmetic-coercion/tree/master/tabling)
 
 [TOP](#)
 
