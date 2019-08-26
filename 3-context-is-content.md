@@ -26,8 +26,8 @@ each example has the exact same challenge, test cases, explanation and resources
 > Your result must be a string.  
 
 * fork, this repo
-* complete [the challenge on pytut](https://goo.gl/SG2aoV)
-* when you've passed all the tests paste a shortened link to your solution below
+* complete [the challenge on pytut](http://www.pythontutor.com/live.html#code=function%20reverseString%28str%29%20%7B%0A%20%20return%20str%3B%0A%7D%0A%0Avar%20olleh_type%20%3D%20reverseString%28%22hello%22%29%3B%0Avar%20olleh_value%20%3D%20reverseString%28%22hello%22%29%3B%0Avar%20ydwoH%20%3D%20reverseString%28%22Howdy%22%29%3B%0Avar%20htraE_morf_sgniteerG%20%3D%20reverseString%28'Greetings%20from%20Earth'%29%3B%0A%0A%0A//%20---%20tests%20---%0Aconsole.assert%28typeof%20olleh_type%20%3D%3D%3D%20'string',%20%0A%20%20%20%20'reverseString%28%22hello%22%29%20should%20return%20a%20string'%29%3B%0A%0Aconsole.assert%28olleh_value%20%3D%3D%3D%20'olleh',%20%20%0A%20%20%20%20'reverseString%28%22hello%22%29%20should%20become%20%22olleh%22.'%29%3B%0A%0Aconsole.assert%28ydwoH%20%3D%3D%3D%20'ydwoH',%20%0A%20%20%20%20'reverseString%28%22Howdy%22%29%20should%20become%20%22ydwoH%22.'%29%3B%0A%0Aconsole.assert%28htraE_morf_sgniteerG%20%3D%3D%3D%20'Greetings%20from%20Earth',%20%0A%20%20%20%20'reverseString%28%22Greetings%20from%20Earth%22%29%20should%20become%20%22htraE%20morf%20sgniteerG%22.'%29%3B&cumulative=false&curInstr=14&heapPrimitives=nevernest&mode=display&origin=opt-live.js&py=js&rawInputLstJSON=%5B%5D&textReferences=false)
+* when you've passed all the tests paste a permalink to your solution below
 
 ### [my solution on pytut](paste your link here)
 
