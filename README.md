@@ -112,7 +112,7 @@ __coding is not about code__
 * emphasize applied computing
     * [embedding & debedding](https://github.com/janke-learning/stateless-demo-project)
 * understand development as a structured creative process
-    * [fully literate project](https://github.com/janke-learning/statefull-demo-project)
+    * [fully literate project](https://github.com/janke-learning/statefull-project-demo)
 
 
 
@@ -131,7 +131,6 @@ __preparatory__
     * [proof](https://github.com/janke-learning/simplifying-boolean-expressions)
 * deep understanding of language & program design
     * [comparadigms](https://github.com/janke-learning/comparadigms)
-    * [janke: the framework](https://github.com/janke-learning/janke-the-framework)
 * exposure to structured solution design
     * [stateless project](https://github.com/janke-learning/stateless-demo-project)
 * focus on core computing skills over any tooling or frameworks
