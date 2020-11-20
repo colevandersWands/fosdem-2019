@@ -3,7 +3,7 @@
 
 In the world of computers and programming, there is open source.  In the world of education there are [open education resources](https://opensource.com/resources/what-open-education), resource used for education that are published under an open-source license.  This includes software but also things like slides, lesson plans, word problems, videos, etc. Let's take that idea one step further and define __open education__ as:
 
-> any educational content or method that can be easily adapted to any learning environment by those directly involved (teachers, students, parents, employers, ...), working within their existing means.
+> any educational content or method that can be easily adapted to any educational context by those directly involved (teachers, students, parents, employers, ...), working within their existing means.
 
 This definition of open-eductaion is a stricter standard than is generally placed on open-source software or open educational resources, but it is especially important for computing educators. In the world of programming, every new piece of software and every additional tool adds substantial complexity for students and teachers.  In the world of education resources are often short, professional trainings are few, and workloads too high.  
 
