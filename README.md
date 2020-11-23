@@ -99,7 +99,7 @@ __readily adapted__
 
 ---
 
-## [integration](http://electronicbookreview.com/essay/critical-code-studies/)
+## [integ](http://electronicbookreview.com/essay/critical-code-studies/) [ration](https://criticalcodestudies.com/)
 
 the course should build a wholistic understanding of the creative & controlling role programming plays at the center of a digital society.
 
