@@ -1,3 +1,7 @@
+https://home.hackyourfuture.be/
+
+---
+
 > [slideshow](http://janke-learning.github.io/fosdem-2019) and [video](https://video.fosdem.org/2019/H.1308/js_teaching_tool.mp4) from the JS devroom
 
 # JS for open computing education
