@@ -73,7 +73,7 @@ Not only can you make permalinks to save your progress, work real-time on the sa
 
 The final tier of open-source education resources is __student-accessible open educational resources__.  These are any learning materials that are not only open-source, but developed at a level that a student could realistically understand & modify.  Having all pieces of a course be student-accessible is not realistic (look at the value added by Python Tutor), but striving to have as much as possible will go a long way to empowering teachers & students.
 
-Arithmetic Coercion: [live coercion table](https://janke-learning.github.io/arithmetic-coercion/), [source code](https://github.com/janke-learning/arithmetic-coercion/tree/master/tabling)
+Arithmetic Coercion: [live coercion table](https://colevandersWands.github.io/arithmetic-coercion/), [source code](https://github.com/colevandersWands/arithmetic-coercion/tree/master/tabling)
 
 [TOP](#)
 
